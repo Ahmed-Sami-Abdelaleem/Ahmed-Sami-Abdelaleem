@@ -1,4 +1,4 @@
-# React Developer Portfolio
+# Ahmed Sami React Developer
 
 ## About Me
 
@@ -26,15 +26,15 @@ Brief description of the project, technologies used, and your role.
 
 ## Education
 
-[Your University/College Name]
-[Your Degree] - Expected Graduation: [Year]
+[Modern Academy For Engineering And Technology]
+[2.9] - Expected Graduation: [2025]
 
 ## Contact
 
-- GitHub: [Your GitHub Profile URL]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
+- GitHub: [https://github.com/Ahmed-Sami-Abdelaleem/]
+- WhatsUpp: [01067522016]
+- Email: [ahmed222333sami@gmail.com]
 
 ## Looking for Opportunities
 
-I'm currently seeking internships or entry-level positions in React development. Feel free to reach out if you'd like to collaborate or have any opportunities!
+I'm currently seeking junior React developer. Feel free to reach out if you'd like to collaborate or have any opportunities!
