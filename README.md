@@ -26,14 +26,14 @@ Brief description of the project, technologies used, and your role.
 
 ## Education
 
-[Modern Academy For Engineering And Technology]
-[2.9] - Expected Graduation: [2025]
+Modern Academy For Engineering And Technology
+2.9 - Expected Graduation: 2025
 
 ## Contact
 
-- GitHub: [https://github.com/Ahmed-Sami-Abdelaleem/]
-- WhatsUpp: [01067522016]
-- Email: [ahmed222333sami@gmail.com]
+- GitHub: https://github.com/Ahmed-Sami-Abdelaleem/
+- WhatsUpp: 01067522016
+- Email: ahmed222333sami@gmail.com
 
 ## Looking for Opportunities
 
