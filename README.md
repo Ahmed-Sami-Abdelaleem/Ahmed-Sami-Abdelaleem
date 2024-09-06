@@ -13,12 +13,12 @@ A Junior Front-End Developer specializing in React with under a year of hands-on
 ### [[Project Name 1](https://github.com/Ahmed-Sami-Abdelaleem/E-commerce-FrontEnd)]
 
 A platform for selling digital products and courses.
--Technologies: React.js, Next.js, Tailwind CSS, Strapi, Cloudinary, Stripe
--Key Features:
-  -Browse available e-learning products without sign-in
-  -Secure sign-in required to add products to cart and make purchases
-  -Stripe integration for payment processing
-  -Email notifications via Resend
+- Technologies: React.js, Next.js, Tailwind CSS, Strapi, Cloudinary, Stripe
+- Key Features:
+  - Browse available e-learning products without sign-in
+  - Secure sign-in required to add products to cart and make purchases
+  - Stripe integration for payment processing
+  - Email notifications via Resend
 
 
 ### [[Project Name 2]](https://github.com/Ahmed-Sami-Abdelaleem/airbnb-clone)
