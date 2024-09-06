@@ -41,6 +41,7 @@ Modern Academy For Engineering And Technology
 - GitHub: https://github.com/Ahmed-Sami-Abdelaleem/
 - WhatsUpp: 01067522016
 - Email: ahmed222333sami@gmail.com
+- Upwork: https://www.upwork.com/freelancers/~0164028fd14abf8fa8?mp_source=share
 
 ## Looking for Opportunities
 
