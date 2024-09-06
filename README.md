@@ -6,13 +6,7 @@ I'm a student and aspiring React developer with experience in freelance projects
 
 ## Skills
 
-- React
-- Next.js
-- Redux
-- Tailwind CSS
-- Strapi (Headless CMS)
-- Payment integrations (Stripe, Paymob)
-- Project management (Jira)
+- React | Next.js | Redux | RTK Quairy | Tailwind CSS | Bootstrap | Strapi (Headless CMS) | Payment integrations (Stripe, Paymob) | Project management (Jira)
 
 ## Projects
 
