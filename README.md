@@ -10,7 +10,7 @@ A Junior Front-End Developer specializing in React with under a year of hands-on
 
 ## Projects
 
-### [[Project Name 1](https://github.com/Ahmed-Sami-Abdelaleem/E-commerce-FrontEnd)]
+### [[E-Learning Platform](https://github.com/Ahmed-Sami-Abdelaleem/E-commerce-FrontEnd)]
 
 A platform for selling digital products and courses.
 - Technologies: React.js, Next.js, Tailwind CSS, Strapi, Cloudinary, Stripe
@@ -21,7 +21,7 @@ A platform for selling digital products and courses.
   - Email notifications via Resend
 
 
-### [[Project Name 2]](https://github.com/Ahmed-Sami-Abdelaleem/airbnb-clone)
+### [[Airbnb Clone]](https://github.com/Ahmed-Sami-Abdelaleem/airbnb-clone)
 
 A tourism-focused application offering travel and accommodation services.
 
