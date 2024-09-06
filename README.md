@@ -23,13 +23,13 @@ A platform for selling digital products and courses.
 
 ### [[Project Name 2]](https://github.com/Ahmed-Sami-Abdelaleem/airbnb-clone)
 
-- 1- Airbnb-clone app Tourism Agency business to provide Tourism sevices .
-- 2- tech Rect.js - Next.js - TailwindCss 
-- ✨ System features:
-- 1- show all services programs and hotels 
-- 2-ability to search about cities 
-- 3-searhc screen to dispaly search results
-- 4-integrate with backend api
+A tourism-focused application offering travel and accommodation services.
+
+- Technologies: React.js, Next.js, Tailwind CSS
+- Key Features:
+  - Display all services, programs, and available hotels
+  - Search functionality to find cities and programs
+  - Seamless integration with backend APIs for data management
 
 ## Education
 
