@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a student and aspiring React developer with experience in freelance projects. I'm passionate about creating efficient, user-friendly web applications using modern technologies.
+A Junior Front-End Developer specializing in React with under a year of hands-on experience. I create and maintain projects leveraging modern tools and frameworks such as React, Next.js, and Redux. Additionally, I share my knowledge and expertise through my YouTube channel, where I post development-related content. You can view my channel to gauge my skills. Below, I have highlighted two significant projects that reflect my capabilities.
 
 ## Skills
 
@@ -12,13 +12,13 @@ I'm a student and aspiring React developer with experience in freelance projects
 
 ### [[Project Name 1](https://github.com/Ahmed-Sami-Abdelaleem/E-commerce-FrontEnd)]
 
-- 1- E-learning app to sell digital products.
-- 2- tech Rect.js - Next.js - TailwindCss - Strapi - cloudinary - Stripe 
-- ✨ System features:
-- 1-show to users all E-learning products before sgin-in & details
-- 2- to add cart must be sgin-in
-- 3-check out system with Stripe payment git way 
-- 4-sending email using Resend 
+A platform for selling digital products and courses.
+-Technologies: React.js, Next.js, Tailwind CSS, Strapi, Cloudinary, Stripe
+-Key Features:
+  -Browse available e-learning products without sign-in
+  -Secure sign-in required to add products to cart and make purchases
+  -Stripe integration for payment processing
+  -Email notifications via Resend
 
 
 ### [[Project Name 2]](https://github.com/Ahmed-Sami-Abdelaleem/airbnb-clone)
