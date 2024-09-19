@@ -11,38 +11,28 @@ I am a front-end developer skilled in React, Next.js, Redux, and Tailwind CSS, w
 ## Experience
 ### Project: Scrap Power - Junk Submission and Marketplace Platform @Hleper Zone  Remotely  9/2024 - Present
 - Developed responsive web interfaces for user and dealer accounts using React, Next.js, and TailwindCSS.
-- • Integrated Redux and RTK Query to manage application state, enabling real-time updates for user
+- Integrated Redux and RTK Query to manage application state, enabling real-time updates for user
 submissions, offers, and marketplace items.
-- • Implemented payment solutions using Paymob for secure and efficient user-dealer transactions.
-- • Collaborated with back-end (.Net) teams to ensure seamless communication through APIs and enhanced
+- Implemented payment solutions using Paymob for secure and efficient user-dealer transactions.
+- Collaborated with back-end (.Net) teams to ensure seamless communication through APIs and enhanced
 user experience.
-- • Worked on in-app messaging, real-time notifications, and advanced search features for both users and
+- Worked on in-app messaging, real-time notifications, and advanced search features for both users and
 dealers.
-- • Used Git for version control and effective team collaboration, ensuring smooth development and release
+- Used Git for version control and effective team collaboration, ensuring smooth development and release
 cycles.
 
 ## Projects
 
 ### [[E-Learning Platform](https://github.com/Ahmed-Sami-Abdelaleem/E-commerce-FrontEnd)]
 
-A platform for selling digital products and courses.
-- Technologies: React.js, Next.js, Tailwind CSS, Strapi, Cloudinary, Stripe
-- Key Features:
-  - Browse available e-learning products without sign-in
-  - Secure sign-in required to add products to cart and make purchases
-  - Stripe integration for payment processing
-  - Email notifications via Resend
+Digital Products and Courses Platform
+- Built a platform for selling digital products and e-learning courses, providing a seamless user experience
+with React.js, Next.js, and Tailwind CSS.
+- Integrated with Strapi for content management and Cloudinary for handling media uploads.
+- Enabled secure payment processing using Stripe, allowing users to purchase products after sign-in.
+- Implemented email notifications using Resend for updates on purchases and account activity.
+- Developed backend API integrations for efficient data management and user interaction.
 
-
-### [[Airbnb Clone]](https://github.com/Ahmed-Sami-Abdelaleem/airbnb-clone)
-
-A tourism-focused application offering travel and accommodation services.
-
-- Technologies: React.js, Next.js, Tailwind CSS
-- Key Features:
-  - Display all services, programs, and available hotels
-  - Search functionality to find cities and programs
-  - Seamless integration with backend APIs for data management
 
 ## Education
 
@@ -51,10 +41,12 @@ Modern Academy For Engineering And Technology
 
 ## Contact
 
-- GitHub: https://github.com/Ahmed-Sami-Abdelaleem/
+- 
 - WhatsUpp: 01067522016
-- Email: ahmed222333sami@gmail.com
+- Email: ahmed.sami.freelance@gmail.com
 - Upwork: https://www.upwork.com/freelancers/~0164028fd14abf8fa8?mp_source=share
+- Linkedin: https://www.linkedin.com/in/ahmed-sami%F0%9F%87%B5%F0%9F%87%B8-b64557221/
+- Youtube: https://www.youtube.com/@ahmedsamiabdelalim6783/videos
 
 ## Looking for Opportunities
 
