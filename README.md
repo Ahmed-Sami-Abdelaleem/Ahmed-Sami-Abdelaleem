@@ -11,14 +11,14 @@ I am a front-end developer skilled in React, Next.js, Redux, and Tailwind CSS, w
 ## Experience
 ### Project: Scrap Power - Junk Submission and Marketplace Platform @Hleper Zone  Remotely  9/2024 - Present
 - Developed responsive web interfaces for user and dealer accounts using React, Next.js, and TailwindCSS.
-• Integrated Redux and RTK Query to manage application state, enabling real-time updates for user
+- • Integrated Redux and RTK Query to manage application state, enabling real-time updates for user
 submissions, offers, and marketplace items.
-• Implemented payment solutions using Paymob for secure and efficient user-dealer transactions.
-• Collaborated with back-end (.Net) teams to ensure seamless communication through APIs and enhanced
+- • Implemented payment solutions using Paymob for secure and efficient user-dealer transactions.
+- • Collaborated with back-end (.Net) teams to ensure seamless communication through APIs and enhanced
 user experience.
-• Worked on in-app messaging, real-time notifications, and advanced search features for both users and
+- • Worked on in-app messaging, real-time notifications, and advanced search features for both users and
 dealers.
-• Used Git for version control and effective team collaboration, ensuring smooth development and release
+- • Used Git for version control and effective team collaboration, ensuring smooth development and release
 cycles.
 
 ## Projects
