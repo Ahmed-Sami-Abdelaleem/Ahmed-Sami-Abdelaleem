@@ -8,10 +8,9 @@ I am a front-end developer skilled in React, Next.js, Redux, and Tailwind CSS, w
 
 - React | Next.js | Redux | RTK Quairy | Tailwind CSS | Bootstrap | git | Strapi (Headless CMS) | Payment integrations (Stripe, Paymob) | Project management (Jira)
 
-##Experience
-###Project: Scrap Power - Junk Submission and Marketplace Platform
-Developed responsive web interfaces for user and dealer accounts using React, Next.js, and Tailwind
-CSS.
+## Experience
+### Project: Scrap Power - Junk Submission and Marketplace Platform @Hleper Zone  Remotely  9/2024 - Present
+- Developed responsive web interfaces for user and dealer accounts using React, Next.js, and TailwindCSS.
 • Integrated Redux and RTK Query to manage application state, enabling real-time updates for user
 submissions, offers, and marketplace items.
 • Implemented payment solutions using Paymob for secure and efficient user-dealer transactions.
