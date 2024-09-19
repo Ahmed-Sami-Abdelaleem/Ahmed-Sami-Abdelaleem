@@ -1,12 +1,26 @@
-# Ahmed Sami React Developer
+# Ahmed Sami Front End Developer
 
 ## About Me
 
-A Junior Front-End Developer specializing in React with under a year of hands-on experience. I create and maintain projects leveraging modern tools and frameworks such as React, Next.js, and Redux. Additionally, I share my knowledge and expertise through my YouTube channel, where I post development-related content. You can view my channel to gauge my skills. Below, I have highlighted two significant projects that reflect my capabilities.
+I am a front-end developer skilled in React, Next.js, Redux, and Tailwind CSS, with experience in building platforms for marketplaces and digital products. I also share client reviews, LeetCode solutions, and portfolio content on YouTube.
 
 ## Skills
 
-- React | Next.js | Redux | RTK Quairy | Tailwind CSS | Bootstrap | Strapi (Headless CMS) | Payment integrations (Stripe, Paymob) | Project management (Jira)
+- React | Next.js | Redux | RTK Quairy | Tailwind CSS | Bootstrap | git | Strapi (Headless CMS) | Payment integrations (Stripe, Paymob) | Project management (Jira)
+
+##Experience
+###Project: Scrap Power - Junk Submission and Marketplace Platform
+Developed responsive web interfaces for user and dealer accounts using React, Next.js, and Tailwind
+CSS.
+• Integrated Redux and RTK Query to manage application state, enabling real-time updates for user
+submissions, offers, and marketplace items.
+• Implemented payment solutions using Paymob for secure and efficient user-dealer transactions.
+• Collaborated with back-end (.Net) teams to ensure seamless communication through APIs and enhanced
+user experience.
+• Worked on in-app messaging, real-time notifications, and advanced search features for both users and
+dealers.
+• Used Git for version control and effective team collaboration, ensuring smooth development and release
+cycles.
 
 ## Projects
 
