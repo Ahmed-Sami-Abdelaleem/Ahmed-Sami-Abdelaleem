@@ -50,4 +50,4 @@ Modern Academy For Engineering And Technology
 
 ## Looking for Opportunities
 
-I'm currently seeking junior React developer. Feel free to reach out if you'd like to collaborate or have any opportunities!
+I'm currently seeking for Font End position. Feel free to reach out if you'd like to collaborate or have any opportunities!
