@@ -9,6 +9,7 @@ I am a front-end developer skilled in React, Next.js, Redux, and Tailwind CSS, w
 - React | Next.js | Redux | RTK Quairy | Tailwind CSS | Bootstrap | git | Strapi (Headless CMS) | Payment integrations (Stripe, Paymob) | Project management (Jira)
 
 ## Experience
+
 ### Project: Scrap Power - Junk Submission and Marketplace Platform @Hleper Zone  Remotely  9/2024 - Present
 - Developed responsive web interfaces for user and dealer accounts using React, Next.js, and TailwindCSS.
 - Integrated Redux and RTK Query to manage application state, enabling real-time updates for user
@@ -41,7 +42,6 @@ Modern Academy For Engineering And Technology
 
 ## Contact
 
-- 
 - WhatsUpp: 01067522016
 - Email: ahmed.sami.freelance@gmail.com
 - Upwork: https://www.upwork.com/freelancers/~0164028fd14abf8fa8?mp_source=share
