@@ -6,7 +6,7 @@ I am a front-end developer skilled in React, Next.js, Redux, and Tailwind CSS, w
 
 ## Skills
 
-- React | Next.js | Redux | RTK Quairy | Tailwind CSS | Bootstrap | git | Strapi (Headless CMS) | Payment integrations (Stripe, Paymob) | Firebase | Supabase |Project management (Jira)
+- React | Next.js | Redux | RTK Quairy | Tailwind CSS | Bootstrap | git | Strapi (Headless CMS) | Firebase | Supabase |  Payment integrations (Stripe, Paymob) | Project management (Jira)
 
 ## Experience
 
