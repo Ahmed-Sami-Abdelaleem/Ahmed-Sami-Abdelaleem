@@ -45,7 +45,7 @@ Modern Academy For Engineering And Technology
 - WhatsUpp: 01067522016
 - Email: ahmed.sami.freelance@gmail.com
 - Upwork: https://www.upwork.com/freelancers/~0164028fd14abf8fa8?mp_source=share
-- Linkedin:[ https://www.linkedin.com/in/ahmed-sami%F0%9F%87%B5%F0%9F%87%B8-b64557221/](https://www.linkedin.com/in/ahmed-sami-b64557221/)
+- Linkedin: https://www.linkedin.com/in/ahmed-sami-83a2b9377/
 - Youtube: https://www.youtube.com/@ahmedsamiabdelalim6783/videos
 
 ## Looking for Opportunities
