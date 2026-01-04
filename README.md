@@ -1,53 +1,73 @@
-# Ahmed Sami Front End Developer
+# 👨‍💻 Ahmed Sami – Backend Java Developer
 
-## About Me
+## 👋 About Me
+I'm **Ahmed Sami**, a **23-year-old Computer Engineering graduate** with a strong passion for **backend development using Java and Spring**.  
+I’m eager to learn, grow, and contribute to **large-scale, real-world projects**.  
+Feel free to explore my skills and projects, and don’t hesitate to contact me for collaboration or job opportunities.
 
-I am a front-end developer skilled in React, Next.js, Redux, and Tailwind CSS, with experience in building platforms for marketplaces and digital products. I also share client reviews, LeetCode solutions, and portfolio content on YouTube.
+---
 
-## Skills
+## 🛠️ Skills
 
-- React | Next.js | Redux | RTK Quairy | Tailwind CSS | Bootstrap | git | Strapi (Headless CMS) | Firebase | Supabase |  Payment integrations (Stripe, Paymob) | Project management (Jira)
+### Backend
+- Java
+- Spring Framework
+- Spring Boot
+- Spring Security
+- RESTful APIs
+- JPA / Hibernate
 
-## Experience
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB (basic)
 
-### Project: Scrap Power - Junk Submission and Marketplace Platform @Hleper Zone  Remotely  9/2024 - Present
-- Developed responsive web interfaces for user and dealer accounts using React, Next.js, and TailwindCSS.
-- Integrated Redux and RTK Query to manage application state, enabling real-time updates for user
-submissions, offers, and marketplace items.
-- Implemented payment solutions using Paymob for secure and efficient user-dealer transactions.
-- Collaborated with back-end (.Net) teams to ensure seamless communication through APIs and enhanced
-user experience.
-- Worked on in-app messaging, real-time notifications, and advanced search features for both users and
-dealers.
-- Used Git for version control and effective team collaboration, ensuring smooth development and release
-cycles.
+### Tools & Technologies
+- Git & GitHub
+- Docker (basic)
+- Redis (basic)
+- Maven
+- Postman
+- Strapi (Headless CMS)
+- Cloudinary
 
-## Projects
+---
 
-### [[E-Learning Platform](https://github.com/Ahmed-Sami-Abdelaleem/E-commerce-FrontEnd)]
+## 📌 Projects
 
-Digital Products and Courses Platform
-- Built a platform for selling digital products and e-learning courses, providing a seamless user experience
-with React.js, Next.js, and Tailwind CSS.
-- Integrated with Strapi for content management and Cloudinary for handling media uploads.
-- Enabled secure payment processing using Stripe, allowing users to purchase products after sign-in.
-- Implemented email notifications using Resend for updates on purchases and account activity.
-- Developed backend API integrations for efficient data management and user interaction.
+### 🎬 Netflix Clone (Backend)
+A backend system for a Netflix-like streaming platform built using **Java & Spring Boot**.
 
+**Key Features:**
+- JWT Authentication & Authorization
+- User Profiles
+- Movies & TV Shows Management
+- Watch History & Resume Playback
+- Subscription Plans
+- Basic Recommendation System
 
-## Education
+➡️ *More projects coming soon...*
 
-Modern Academy For Engineering And Technology
-2.8 - Expected Graduation: 2025
+---
 
-## Contact
+## 🎓 Education
+**Modern Academy for Engineering and Technology**  
+Bachelor’s Degree in Computer Engineering  
+**GPA:** 2.8  
+**Expected Graduation:** 2025
 
-- WhatsUpp: 01067522016
-- Email: ahmed.sami.freelance@gmail.com
-- Upwork: https://www.upwork.com/freelancers/~0164028fd14abf8fa8?mp_source=share
-- Linkedin: https://www.linkedin.com/in/ahmed-sami-83a2b9377/
-- Youtube: https://www.youtube.com/@ahmedsamiabdelalim6783/videos
+---
 
-## Looking for Opportunities
+## 📬 Contact
 
-I'm currently seeking for Font End position. Feel free to reach out if you'd like to collaborate or have any opportunities!
+- 📱 **WhatsApp:** 01067522016  
+- 📧 **Email:** ahmed.sami.freelance@gmail.com  
+- 💼 **Upwork:** https://www.upwork.com/freelancers/~0164028fd14abf8fa8  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/ahmed-sami-83a2b9377/  
+- ▶️ **YouTube:** https://www.youtube.com/@ahmedsamiabdelalim6783/videos  
+
+---
+
+## 🚀 Looking for Opportunities
+I’m currently seeking a **Backend Java Developer position**.  
+If you’re interested in working together or have an opportunity, feel free to reach out — I’d love to connect!
